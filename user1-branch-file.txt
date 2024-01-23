@@ -1,1 +1,1 @@
-Hello User1-branch, try to make conflict iter 1!
+Hello Master, solved conflicts
