@@ -1,1 +1,1 @@
-Hello Master, this is a test for git fetch!
+Hello Master, this is a test for git fetch! User1 alteration for git fetch test. Fetch is recently done. Next step is to check merge.
