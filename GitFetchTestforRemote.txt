@@ -1,1 +1,0 @@
-Hello World, this is a fetch test created for testing fetch came from Remote Repo.
